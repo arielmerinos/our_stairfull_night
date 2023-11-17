@@ -19,7 +19,7 @@ const scene = new THREE.Scene()
 const loader = new FontLoader();
 
 let guiComponents = {
-     matcapNumber : 4,
+     matcapNumber : 2,
 }
 
 /**
